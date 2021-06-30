@@ -159,3 +159,5 @@ if __name__ == '__main__':
 
     # 输出预测分类与实际分类
     print(f'Predicted: "{predicted[0]}", Actual: "{labels[0]}"')
+    print(f'Predicted: "{predicted[0]}", Actual: "{labels[0]}"')
+    print(f'Predicted: "{predicted[0]}", Actual: "{labels[0]}"')
